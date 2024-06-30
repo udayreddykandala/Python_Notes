@@ -5,7 +5,8 @@ sentence = input("Enter a sentence: ")
 
 # Count the number of words
 word_count = len(sentence.split())
-letter_count = len(sentence[0])
+# Count the number of letters
+letter_count = sum(c.isalpha() for c in sentence)
 
 # Print the result
 print(f"The number of words in the sentence is {word_count}")
