@@ -1,0 +1,4 @@
+Day 02
+Understand variables and different data types in Python.
+W3Schools Python Variables:   https://www.w3schools.com/python/ python_variables.as#
+Real Python Data Types:   https://realpython.com/python-data-types/

@@ -1,0 +1,7 @@
+Day01
+    INTRODUCTION AND SETUP
+
+Get acquainted with Python and set up the development environment.
+Python Official Documentation:   https://www.python.org/doc
+
+Codecademy Python Course:   https://www.codecademy.com/learn/learn-python-3
