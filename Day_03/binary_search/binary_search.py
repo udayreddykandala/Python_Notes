@@ -1,4 +1,4 @@
-from time import time
+import time
 
 
 def binary_search(arr, target):
